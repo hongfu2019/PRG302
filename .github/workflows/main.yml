@@ -40,4 +40,4 @@ jobs:
     - name: Run tests
       run: |
         pwd 
-        python program.y --doctest
+        python doctest01.py --doctest
